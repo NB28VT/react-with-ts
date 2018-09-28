@@ -1,4 +1,5 @@
 import * as React from "react";
+import "./hello.css"
 
 
 // This is essentially defining a new type
